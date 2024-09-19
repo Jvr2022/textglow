@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='textglow',
-    version='0.1',
+    version='0.1.1',
     description='A Python package to add glow effects to text in terminal-based applications.',
     author='JVR2022',
     author_email='joshuavanrijswijk@outlook.com',
